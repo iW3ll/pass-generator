@@ -31,4 +31,4 @@ for b in password:
 
 x = datetime.datetime.today().strftime('%Y-%m-%d-%H-%M-%S')
 
-print(f"{passwordX}{x}")
+print(f"Çã{passwordX}{x}")
